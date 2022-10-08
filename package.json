@@ -1,0 +1,15 @@
+{
+  "name": "useCached",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Sergio C.",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "@tanstack/react-query": "^4.10.3",
+    "@types/node": "^18.8.3",
+    "@types/react": "^18.0.21",
+    "axios": "^1.1.2",
+    "typescript": "^4.8.4"
+  }
+}
